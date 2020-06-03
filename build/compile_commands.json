@@ -1,0 +1,7 @@
+[
+{
+  "directory": "F:/vscodeproject/crack1/build",
+  "command": "C:\\mingw32\\bin\\g++.exe    -g   -o CMakeFiles\\crack1.dir\\main.cpp.obj -c F:\\vscodeproject\\crack1\\main.cpp",
+  "file": "F:/vscodeproject/crack1/main.cpp"
+}
+]
